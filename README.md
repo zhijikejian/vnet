@@ -345,11 +345,17 @@ newunserveuse {001 127.0.0.1 18888 true}
 - help 
 
 > reload  重新加载配置，可指定配置文件
+
 > serve   本地服务操作，创建、执行、开始、暂停、删除等
+
 > use     映射服务操作，创建、执行、开始、暂停、删除等
+
 > show    显示信息，本端vnet、本端serve、本端use、route端serves、route端vnets等
+
 > ping    测试与route端的回传延迟
+
 > unserve 请求非注册服务
+
 > exit    退出本端vnet
 
 - reload
